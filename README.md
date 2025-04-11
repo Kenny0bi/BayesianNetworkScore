@@ -83,3 +83,10 @@ The large dataset `large.csv` contains 50 variables, with unique values for each
 ## Conclusion
 
 This project successfully applied Bayesian Networks to model relationships across three datasets using the K2 search algorithm. Through detailed parameter tuning and data preprocessing, optimal Bayesian scores were achieved for each dataset. The project highlights the importance of iterative testing and configuration optimization in producing effective Bayesian Network models.
+
+## 🙌 Author
+
+**Kehinde Obidele**  
+Graduate Student – Health Informatics  
+Bayesian Networks | Probabilistic Modeling | Data-Driven Decision Support  
+
